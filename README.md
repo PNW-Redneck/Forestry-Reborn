@@ -1,0 +1,1 @@
+This is a WIP. I will be working as I can to bring Forestry back to modern minecraft. SirSengir's Code is referenced, however I will NOT do a copy paste. I will do everything in my power to make the code my own, and redo the textures as I go.
